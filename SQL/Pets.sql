@@ -1,6 +1,6 @@
 -- Create the database if it doesn't exist
-CREATE DATABASE IF NOT EXISTS pets;
-USE pets;
+CREATE DATABASE IF NOT EXISTS if0_37723587_pets;
+USE if0_37723587_pets;
 
 -- Create Users table
 CREATE TABLE IF NOT EXISTS Users (

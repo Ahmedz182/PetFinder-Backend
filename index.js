@@ -13,10 +13,10 @@ app.use(express.json());
 app.use(cors()); // Add this line to enable CORS
 // MySQL connection
 const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',     // MySQL root user
-    password: '',     // No password
-    database: 'pets'  // Your database name
+    host: 'sql209.byetcluster.com',
+    user: 'if0_37723587',     // MySQL root user
+    password: 'Blackz1821212',     // No password
+    database: 'if0_37723587_pets'  // Your database name
 });
 
 // Connect to MySQL
